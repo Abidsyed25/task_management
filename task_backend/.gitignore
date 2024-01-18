@@ -58,3 +58,9 @@ local.properties
 # STS (Spring Tool Suite)
 .springBeans
 
+# Maven wrapper
+mvnw
+mvnw.cmd
+.mvn/
+
+
