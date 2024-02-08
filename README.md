@@ -1,7 +1,7 @@
 <h1 align="center">Task Management System📝</h1>
 
 # Description💡
-A Task Management System is a digital platform designed to help users organize, track, and prioritize tasks efficiently. It typically includes features such as login and signup functionalities for user authentication and task management capabilities like adding, updating, and deleting tasks. Users can create tasks, assign deadlines, set priorities, and track the progress of their tasks within the system. The system provides a centralized interface for users to manage their tasks effectively, enhancing productivity and organization in both personal and professional contexts.
+Task Management System is a digital platform designed to help users organize, track, and prioritize tasks efficiently. It typically includes features such as login and signup functionalities for user authentication and task management capabilities like adding, updating, and deleting tasks. Users can create tasks, assign deadlines, set priorities, and track the progress of their tasks within the system. The system provides a centralized interface for users to manage their tasks effectively, enhancing productivity and organization in both personal and professional contexts.
 
 # Technologies Used🔧
 - SpringBoot
